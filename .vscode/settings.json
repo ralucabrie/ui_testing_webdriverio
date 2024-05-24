@@ -1,8 +1,0 @@
-{
-    "cucumberautocomplete.customParameters": [
-
-    ],
-    "cucumberautocomplete.steps": [
-       "step-definitions/*.ts"
-    ]
-}
